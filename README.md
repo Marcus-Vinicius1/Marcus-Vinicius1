@@ -29,3 +29,5 @@
 - Website Instituto Olhos: https://institutoolhosbotucatu.com.br/<br>
 
 <h3> 📄 Resume </h3>
+
+- [Curriculum [EN-US]](https://github.com/user-attachments/files/17191863/English.Marcus.vinicius.biolado.cardoso.pdf)
