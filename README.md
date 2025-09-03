@@ -1,6 +1,6 @@
 <h2> :earth_americas: Olá, I'm Marcus Vinicius. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> 👨🏻‍💻 About Me </h3> 
 
 - I'm a Brazilian studying systems analysis, a beginner Fullstack Developer with a passion for creating exceptional digital experiences. With a basic knowledge of modern frameworks and technologies, including Next.js, Node.js and MySQL, I thrive on building innovative solutions that push the boundaries of web development.
 
