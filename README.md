@@ -5,7 +5,7 @@
 - I'm a Brazilian studying systems analysis, a beginner Front-End Developer with a passion for creating exceptional digital experiences. With a basic knowledge of modern frameworks and technologies, including Next.js, Node.js and MySQL, I thrive on building innovative solutions that push the boundaries of web development.
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; FullStack developer.
+- 💼 &nbsp; Front-End developer.
 - ✍️ &nbsp; Watching Anime and trying out latest programming trends as hobbies/side hustles.
 - 🕹 &nbsp; let's play video games?
 
