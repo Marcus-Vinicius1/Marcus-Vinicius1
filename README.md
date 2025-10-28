@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3> 
 
-- I'm a Brazilian studying systems analysis, a beginner Fullstack Developer with a passion for creating exceptional digital experiences. With a basic knowledge of modern frameworks and technologies, including Next.js, Node.js and MySQL, I thrive on building innovative solutions that push the boundaries of web development.
+- I'm a Brazilian studying systems analysis, a beginner Front-End Developer with a passion for creating exceptional digital experiences. With a basic knowledge of modern frameworks and technologies, including Next.js, Node.js and MySQL, I thrive on building innovative solutions that push the boundaries of web development.
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; FullStack developer.
